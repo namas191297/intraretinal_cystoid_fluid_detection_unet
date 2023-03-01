@@ -14,7 +14,7 @@ Please check config.py and see if any changes need to be made (none by default, 
 
 ## Result
 
-![output](git_images/output.png)
+![output](git_images/output.jpeg)
 ## Acknowledgements
 
  - [Intraretinal Cystoid Fluid Dataset](https://www.kaggle.com/datasets/zeeshanahmed13/intraretinal-cystoid-fluid)
